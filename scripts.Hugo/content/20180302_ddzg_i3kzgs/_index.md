@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20180302_ddzg_i3kzgs.mp4" >}}
 
-     
      中国是否适合民主 兼谈素质论和民主的关系 
+     
      https://www.youtube.com/watch?v=DDzg_i3KZgs 
