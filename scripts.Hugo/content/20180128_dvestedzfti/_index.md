@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20180128_dvestedzfti.mp4" >}}
 
-     https://www.youtube.com/watch?v=dvEstEdZFTI 
      
+     https://www.youtube.com/watch?v=dvEstEdZFTI 
      我为什么要起诉耿和 兼谈民主人士对法律诉讼应有的态度 
